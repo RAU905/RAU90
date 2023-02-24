@@ -1,0 +1,36 @@
+
+
+
+body{
+    background-color: rgb(28, 78, 100) ;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+#cardContainer{
+
+margin: auto;
+margin-left: 45px;
+}
+
+.card{
+    width: 30rem;
+    height: auto;
+    margin: 10px;
+    border-radius: 1.5rem;
+}
+.jumbotron{
+background-image: url("matrix-style-binary-code-digital-background-with-falling-numbers_1017-25336.avif");
+
+background-color: blanchedalmond;
+}
+.card-body{
+   width: auto; 
+   height: auto;
+border-radius: 2rem;
+background-color: rgb(227, 225, 170);
+color: rgb(0, 54, 111);
+}
